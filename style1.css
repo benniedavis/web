@@ -1,0 +1,122 @@
+/* Css for the revolutionary notion*/
+body {
+     font-family: Verdana, Helvetical, Arial, sans-serif;
+     background-color:#ffe4e1;
+     line-height: 100%;
+     padding:-6px;
+     margin-right: auto;
+     height:auto;
+     margin: top 20px;
+	background: #bed8f3 url(just.jpg) repeat-y
+     right;
+     height: auto;
+     }
+
+#header {
+     font-family: Verdana, Helvetical, Arial, sans-serif;
+
+     background-color:pink;
+  
+     line-height:100%;
+  
+     padding:10px;
+  
+     margin:-60em;
+
+     position: fixed;
+     margin-top:-330em;
+     height:30px;
+     box-shadow: 0 0 55px 0 blue;
+}
+#nav {
+	background-color:orange;
+	position: center;
+	left: 0;
+	right:0;
+	top:5px;
+
+}
+#nav {
+	display;
+}
+
+#nav li {
+	margin: 3px;
+	display: inline;
+}
+	
+#nav li a {
+	color: white;
+	text-decoration: none;
+	display: inline;
+}
+#tagline
+p {
+
+ 
+    font-style: italic;
+ 
+     font-size:23px;
+	text-color: black;   
+ 
+     font-family: Georgia,Times, serif;
+      
+     background-color:white;
+     
+     border-top: .1px solid #7da5d8;
+ 
+      
+     border-bottom: 1.px solid #7da5d8;
+      
+     padding-top: 1em;
+    
+    
+ padding-bottom: 1em;
+ 
+      
+     padding-left: 1em;
+      
+     margin: 10px;
+      
+     background-size:10em; 
+     position:center;
+     color:white;
+
+}
+
+#footer {
+	 height:14em;
+         background-color:#ff4500;
+}
+
+
+a {
+  font-weight: bold;
+ 
+     color:white;
+
+}
+
+
+a {
+
+  font-weight: bold;
+
+
+}
+
+
+
+a:link,h1 {
+        color:white;
+}
+
+
+
+
+
+
+
+
+
+
